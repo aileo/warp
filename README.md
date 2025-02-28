@@ -482,7 +482,7 @@ Please note that every variable can be set either in the config file or via the 
 |:---|:---|
 |type:|`string`|
 |default value:|`name`|
-|description:|Full user name attribute in claims|
+|description:|Full user name attribute in claims, can be concat more than one attribute comma separated|
 
 |variable:|`AAD_LOGIN_ATTRIBUTE`|
 |:---|:---|
