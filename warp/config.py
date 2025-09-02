@@ -12,7 +12,7 @@ class DefaultSettings(object):
 
     # for how many weeks in advance users can book a seat
     # (after the current week)
-    WEEKS_IN_ADVANCE = 1
+    WEEKS_IN_ADVANCE = 4
 
     MAX_CONTENT_LENGTH = 5 * 1024 * 1024
 
